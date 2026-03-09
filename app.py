@@ -11,3 +11,6 @@ odd_list= return_odd
 st.write("hooray we connected everything")
 
 st.write(even_list)
+
+st.write(odd_list)
+
