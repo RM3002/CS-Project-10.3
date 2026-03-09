@@ -6,7 +6,7 @@ original_list = [i for i in range(10)]
 
 even_list = return_even(original_list)
 
-odd_list= return_odd
+odd_list= return_odd(original_list)
 
 st.write("hooray we connected everything")
 
